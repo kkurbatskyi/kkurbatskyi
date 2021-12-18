@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kkurbatskyi
+- 👀 I’m interested in blockchain technology
+- 🌱 I’m currently learning Solidity
+- 📫 Reach me at https://www.linkedin.com/in/kostiantyn-kurbatskyi-663095136/
